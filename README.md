@@ -2,6 +2,13 @@
 
 Um projeto simples de formulário criado para praticar <strong>HTML</strong>, <strong>CSS</strong> e <strong>JavaScript</strong>.
 
+## 📸 Captura de Tela
+
+<img
+    src="img/screenshot.png"
+    alt="Captura de tela do formulário"
+/>
+
 ## 🚀 Tecnologias Utilizadas
 
 <p align="left">
