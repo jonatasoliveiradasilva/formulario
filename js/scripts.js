@@ -17,4 +17,6 @@ formulario.addEventListener("submit", function (evento) {
     }
 
     alert("Login realizado com sucesso!");
+
+    formulario.reset();
 });
